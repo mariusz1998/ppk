@@ -1,0 +1,4 @@
+﻿  Źródło.cpp
+c:\users\mariu\source\repos\projekt2\projekt2\źródło.cpp(23): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+c:\users\mariu\source\repos\projekt2\projekt2\źródło.cpp(481): warning C4101: "znak1": lokalna zmienna, do której nie istnieje odwołanie
+  Projekt2.vcxproj -> C:\Users\mariu\source\repos\Projekt2\Debug\Projekt2.exe
